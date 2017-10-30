@@ -9,6 +9,7 @@ import java.util.List;
  * java8新特性
  * Lambda 表达式
  * 允许把函数作为一个方法的参数（函数作为参数传递进方法中）。
+ * Lambda 表达式免去了使用匿名方法的麻烦
  * 》》》通过实践感觉这个表达式就是适用于接口方法的,这也是java8比较重要的一大更新
  * @author Thinkpad
  *
